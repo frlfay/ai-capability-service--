@@ -1,0 +1,11 @@
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# AI/LLM
+openai>=1.0.0
+
+# HTTP Client (视频生成异步轮询)
+requests>=2.31.0
