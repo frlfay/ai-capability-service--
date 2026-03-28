@@ -4,13 +4,13 @@
 
 文生图：
 
-![image-20260328194155125](./READMED.assets/image-20260328194155125.png)
+![image-20260328194155125](./README.assets/image-20260328194155125.png)
 
 图生视频:
 
-![CleanShot 2026-03-28 at 20.23.00@2x](./READMED.assets/CleanShot%202026-03-28%20at%2020.23.00@2x.png)
+![CleanShot 2026-03-28 at 20.23.00@2x](./README.assets/CleanShot%202026-03-28%20at%2020.23.00@2x.png)
 
-![CleanShot 2026-03-28 at 19.40.58@2x](./READMED.assets/CleanShot%202026-03-28%20at%2019.40.58@2x.png)
+![CleanShot 2026-03-28 at 19.40.58@2x](./README.assets/CleanShot%202026-03-28%20at%2019.40.58@2x.png)
 
 ## 核心特性
 
